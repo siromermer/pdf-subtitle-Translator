@@ -1,4 +1,6 @@
 for me when i read pdf in computer most painful  part is change the tab and seatch for the word that i dont know the meaning , by the way it very time consuming . 
+and one other painful thing is watching movies with english subtitle , it is hard to understant in some points with this program just clicking one button solves my problem
+
 With this litte project by pressing four different button you can get 4 different voice output :
 1) Translated word (language that you want to hear)
 2) pronunciation of word 
